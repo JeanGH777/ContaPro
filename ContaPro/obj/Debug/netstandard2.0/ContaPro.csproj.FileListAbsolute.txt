@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\bin\Debug\netstandard2.0\ContaPro.deps.json
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\bin\Debug\netstandard2.0\ContaPro.dll
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\bin\Debug\netstandard2.0\ref\ContaPro.dll
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\bin\Debug\netstandard2.0\ContaPro.pdb
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.dll
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\refint\ContaPro.dll
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.pdb

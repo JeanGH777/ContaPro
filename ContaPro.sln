@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaPro.Android", "ContaPro.Android\ContaPro.Android.csproj", "{9EECA41F-0FF5-4F8E-B672-56CE5E90F08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaPro.iOS", "ContaPro.iOS\ContaPro.iOS.csproj", "{B92D335F-1E9B-4E55-AD64-0EA2097E49C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaPro", "ContaPro\ContaPro.csproj", "{6F4FDEB5-7FF6-4588-BA01-0F880AF89171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EECA41F-0FF5-4F8E-B672-56CE5E90F08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EECA41F-0FF5-4F8E-B672-56CE5E90F08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EECA41F-0FF5-4F8E-B672-56CE5E90F08D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9EECA41F-0FF5-4F8E-B672-56CE5E90F08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EECA41F-0FF5-4F8E-B672-56CE5E90F08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EECA41F-0FF5-4F8E-B672-56CE5E90F08D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B92D335F-1E9B-4E55-AD64-0EA2097E49C1}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{B92D335F-1E9B-4E55-AD64-0EA2097E49C1}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{B92D335F-1E9B-4E55-AD64-0EA2097E49C1}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{B92D335F-1E9B-4E55-AD64-0EA2097E49C1}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{B92D335F-1E9B-4E55-AD64-0EA2097E49C1}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{B92D335F-1E9B-4E55-AD64-0EA2097E49C1}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{6F4FDEB5-7FF6-4588-BA01-0F880AF89171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4FDEB5-7FF6-4588-BA01-0F880AF89171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4FDEB5-7FF6-4588-BA01-0F880AF89171}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F4FDEB5-7FF6-4588-BA01-0F880AF89171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4FDEB5-7FF6-4588-BA01-0F880AF89171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4FDEB5-7FF6-4588-BA01-0F880AF89171}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16D861DA-5507-41CE-983A-976A61FD70EC}
+	EndGlobalSection
+EndGlobal
