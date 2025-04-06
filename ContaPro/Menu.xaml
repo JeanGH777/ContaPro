@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ContaPro.Master"
+             Title="Menu">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Dashboard"
+                    x:Name="BtnDashboard"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/ycnRBWhW/dashboard.png"
+                    Clicked="BtnDashboard_Clicked" />
+            
+            <Button Text="Administración Financiera"
+                    x:Name="btnAdmtF"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/8nh383Ty/gestion-financiera.png"
+                    Clicked="btnAdmtF_Clicked" />
+            
+            <Button Text="Gestión de Tributos y Arbitrios"
+                    x:Name="btnGestion"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/dw0bDz5r/calculo.png"
+                    Clicked="btnGestion_Clicked" />
+            
+            <Button Text="Gestión de Proveedores"
+                    x:Name="btnProveedores"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/mrLQ2zNP/proveedor-1.png"
+                    Clicked="btnProveedores_Clicked"/>
+            
+            <Button Text="Escaneo y Digitalización de Documentos"
+                    x:Name="btnEscaneo"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/XrD8dVCY/escaneo.png"
+                    Clicked="btnEscaneo_Clicked" />
+            
+            <Button Text="Módulo de Permisos y Licencias"
+                    x:Name="btnPermisos"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/Kc4L3Sbq/permiso.png"
+                    Clicked="btnPermisos_Clicked" />
+            
+            <Button Text="Notificaciones"
+                    x:Name="btnNotificacion"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/DPW73Mmg/notificacion.png"
+                    Clicked="btnNotificacion_Clicked" />
+            
+            <Button Text="Configuración"
+                    x:Name="btnConfiguracion"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/hx4vD401/configuracion.png"
+                    Clicked="btnConfiguracion_Clicked" />
+            
+            <Button Text="Soporte"
+                    x:Name="btnAyuda"
+                    BackgroundColor="White"
+                    ImageSource="https://i.ibb.co/p64p6yqb/ayudad.png"
+                    Clicked="btnAyuda_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

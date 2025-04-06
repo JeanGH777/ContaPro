@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ContaPro.Detail"
+             BackgroundColor="#F6F9FC"
+             Title="Inicio">
+    <ScrollView>
+        <StackLayout Padding="20"
+                     Spacing="20">
+            <!-- Saludo al usuario -->
+            <Label Text="¡Bienvenido, Carlitos!"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="#1E2A78"
+                   HorizontalOptions="Center" />
+            <!-- Tarjeta resumen -->
+            <Frame BackgroundColor="#FFFFFF"
+                   CornerRadius="10"
+                   Padding="15"
+                   HasShadow="True">
+                <StackLayout>
+                    <Label Text="Resumen del Mes"
+                           FontSize="18"
+                           FontAttributes="Bold"
+                           TextColor="#1E2A78" />
+                    <Label Text="Ingresos: S/ 5,000"
+                           TextColor="#32D4A4" />
+                    <Label Text="Gastos: S/ 3,200"
+                           TextColor="#E53935" />
+                    <Label Text="Ganancia: S/ 1,800"
+                           FontAttributes="Bold"
+                           TextColor="#1E2A78" />
+                </StackLayout>
+            </Frame>
+            <!-- Accesos rápidos -->
+            <Label Text="Accesos Rápidos"
+                   FontSize="18"
+                   FontAttributes="Bold"
+                   TextColor="#1E2A78" />
+            <Grid ColumnSpacing="15"
+                  RowSpacing="15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <!-- Botones -->
+                <Button Text="📊 Finanzas"
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        BackgroundColor="#4D9DE0"
+                        TextColor="White"
+                        CornerRadius="10" />
+                <Button Text="🧾 Facturación"
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        BackgroundColor="#4D9DE0"
+                        TextColor="White"
+                        CornerRadius="10" />
+                <Button Text="📋 Tributos"
+                        Grid.Row="1"
+                        Grid.Column="0"
+                        BackgroundColor="#4D9DE0"
+                        TextColor="White"
+                        CornerRadius="10" />
+                <Button Text="📦 Proveedores"
+                        Grid.Row="1"
+                        Grid.Column="1"
+                        BackgroundColor="#4D9DE0"
+                        TextColor="White"
+                        CornerRadius="10" />
+            </Grid>
+            <!-- Info -->
+            <Label Text="Consejo de hoy: ¡No olvides registrar tus gastos diarios!"
+                   FontSize="14"
+                   TextColor="#666"
+                   HorizontalOptions="Center"
+                   Margin="0,20,0,0" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

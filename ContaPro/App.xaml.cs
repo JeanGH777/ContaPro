@@ -6,6 +6,7 @@ namespace ContaPro
 {
     public partial class App : Application
     {
+        public static MasterDetailPage MAsterDet { get; set; }
         public App ()
         {
             InitializeComponent();

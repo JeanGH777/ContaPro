@@ -13,3 +13,15 @@ C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netst
 C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.dll
 C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\refint\ContaPro.dll
 C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.pdb
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\ContaPro.sourcelink.json
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Administración Financiera.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Configuración.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Dashboard.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Escaneo y Digitalización de Documentos.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Gestión de Proveedores.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Gestión de Tributos y Arbitrios.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Módulo de Permisos y Licencias.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Notificaciones.xaml.g.cs
+C:\Users\carlo\OneDrive\Escritorio\APP MOVILES\ContaPro\ContaPro\obj\Debug\netstandard2.0\Paginas\Soporte.xaml.g.cs

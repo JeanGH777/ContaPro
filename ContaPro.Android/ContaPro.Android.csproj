@@ -55,8 +55,16 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Microsoft.NETCore.Platforms">
+      <Version>7.0.4</Version>
+    </PackageReference>
+    <PackageReference Include="NETStandard.Library">
+      <Version>2.0.3</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Essentials" Version="1.8.1" />
+    <PackageReference Include="Xamarin.Forms">
+      <Version>5.0.0.2662</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
@@ -84,14 +92,24 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\drawable\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\ContaPro\ContaPro.csproj">
       <Project>{5D952315-6C0F-4EAB-9E78-65CAB8F51BA9}</Project>
       <Name>ContaPro</Name>
     </ProjectReference>
   </ItemGroup>
- <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <ItemGroup>
+    <Content Include="Resources\drawable\ayuda.png" />
+    <Content Include="Resources\drawable\calculo.png" />
+    <Content Include="Resources\drawable\configuracion.png" />
+    <Content Include="Resources\drawable\Dashboard.png" />
+    <Content Include="Resources\drawable\escaneo.png" />
+    <Content Include="Resources\drawable\gestion financiera.png" />
+    <Content Include="Resources\drawable\inicio.png" />
+    <Content Include="Resources\drawable\notificacion.png" />
+    <Content Include="Resources\drawable\permisos.png" />
+    <Content Include="Resources\drawable\proveedor.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
