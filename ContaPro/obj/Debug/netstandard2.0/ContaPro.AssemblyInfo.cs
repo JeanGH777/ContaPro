@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContaPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0a4a616966426801224fefea46dcb6bf1de6cd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702e91225b32769d031738f22aff1c4379bd3f5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContaPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContaPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
